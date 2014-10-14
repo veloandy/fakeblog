@@ -1,3 +1,6 @@
+![TravisCI badge]
+(https://travis-ci.org/veloandy/fakeblog.svg)
+
 Fakeblog
 ================
 
