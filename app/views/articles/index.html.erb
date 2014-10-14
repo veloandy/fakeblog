@@ -1,0 +1,21 @@
+<div class="container">
+  <div class="row">
+    <h3>Articles</h3>
+   <button >
+   <%= link_to "New Article", action: "new"  %>
+   </button>
+   <br>
+    <div class="column">
+      <table class="table">
+        <tbody>
+          <% @articles.each do |a| %>
+            <tr>
+              <%= render a %>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
