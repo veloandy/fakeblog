@@ -1,5 +1,4 @@
-![TravisCI badge]
-(https://travis-ci.org/veloandy/fakeblog.svg)
+[![Build Status](https://travis-ci.org/veloandy/fakeblog.svg?branch=master)](https://travis-ci.org/veloandy/fakeblog)
 
 Fakeblog
 ================
