@@ -19,3 +19,5 @@ This application requires:
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
+This is a comment
+
